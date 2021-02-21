@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620945676546",
+    "firebase_url": "https://login-credentials-cb6e8.firebaseio.com",
+    "project_id": "login-credentials-cb6e8",
+    "storage_bucket": "login-credentials-cb6e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620945676546:android:f2afafb6f61053ed534a1b",
+        "android_client_info": {
+          "package_name": "com.aloy.ClassiFish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620945676546-p7rp2jvsbv0t69l5pbgb9pd2cshlfs50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zSHAURK2kNfrPyJzXJL8mPyhsa1VgAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620945676546-p7rp2jvsbv0t69l5pbgb9pd2cshlfs50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

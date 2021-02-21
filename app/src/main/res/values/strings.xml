@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ClassiFish</string>
+    <string name="action_about">About</string>
+    <string name="info_text">
+        Welcome to Fish Classifier.&lt;br /&gt;&lt;br /&gt;
+        This is an app that identifies fish species, specifically located in the Tonle Sap Lake in Cambodia.&lt;br /&gt;&lt;br /&gt;
+        We welcome your
+    </string>
+    <string name="author">&lt;br /&gt;&lt;br /&gt;Written by Aloysius Chow</string>
+    <string name="title_activity_home_page">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="identify">Identify</string>
+</resources>
