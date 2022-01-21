@@ -3,6 +3,8 @@
 ### ABOUT
 This android app utilises a pre-trained machine learning model based on Google's InceptionV3 and uses it to classify different fish species.
 
+You can read more about the process of developing the ML model and buildingt the android app [here](https://aloysius-portfolio.webflow.io/project/fish-classifier).
+
 ![alt text](https://github.com/aloychow/ClassiFish/blob/main/images/image_1.png "Overview")
 
 ### You can view the video of the application here:
